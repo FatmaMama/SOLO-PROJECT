@@ -1,0 +1,206 @@
+body{
+	background: url(https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_193,y_819,w_3451,h_1941,c_crop/w_1200,h_630,c_fill/v1545246712/foodlavie/prod/recettes/burger-de-boeuf-au-bacon-et-cheddar-741a9830) 0 0 no-repeat;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-blend-mode: darken;
+}
+
+.contact{
+	background-color: #FFD700;
+	float: right;
+	margin: 0.5rem;
+	font-size: 25px;
+}
+
+.name{
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 160px;
+
+}
+
+.yummy{
+	padding-right: 1.5rem;
+	color: #B22222;
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+}
+
+.burger{
+	color: #FFD700;
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+
+}
+
+.logoBurger{
+	height: 110px;
+	width: 110px;
+}
+
+.slogan{
+	font-size: 45px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #fff;
+	padding-top: 10px;
+	
+}
+
+#chooseBurger{
+	background-color: #FFD700;
+	font-family: 'Goldman', cursive;
+	font-size: 20px;
+	width: 300px;
+	height: 50px;
+	margin-top: 50px;
+	border: none;
+	border-radius: 25px;
+}
+
+.burgerContainer{
+	background : azure;
+	opacity: 0.6;
+	margin: 20px auto;
+	padding: 1.5em;
+	width: 40%;
+	border-radius: 10px;
+}
+
+.burgerPrice{
+	float: right;
+	color: #FFD700;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.burgerName{
+	color: #B22222;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.burgerComposant{
+	font-weight: bold;
+}
+
+.menu{
+	font-size: 60px;
+	font-weight: bold;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #FFD700 ;
+}
+
+.orderContainer{
+	position: relative;
+	margin: 0 auto;
+	width: 30%;
+}
+
+#container{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Lobster', cursive;
+	color: #B22222;
+}
+
+.button1 {
+	background-color: #FFD700;
+	height: 35px;
+	font-size: 20px;
+	font-family: 'Goldman', cursive;
+	border: none;
+	border-radius: 25px;
+}
+
+.personalInformations{
+	background: azure;
+	opacity: 0.6;
+	padding: 1.5em;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.informationButton{
+	background-color: none;
+	color: #B22222;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	width: 300px;
+	margin-bottom: 20px;
+	border: none;
+}
+
+.informationInput{
+	border: 10px solid black;
+	height: 35px;
+	font-size: 35px;
+}
+
+.submitReturn{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.button2 {
+	background-color: #FFD700;
+	height: 45px;
+	font-size: 30px;
+	font-family: 'Goldman', cursive;
+	border: none;
+	border-radius: 25px;
+}
+
+.thankText{
+	background: azure;
+	opacity: 0.6;
+	padding: 0.7em;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #FFD700;
+    font-size: 60px;
+	font-family: 'Lobster', cursive;
+	margin: 20px;
+}
+
+#thankYou{
+	margin-top: 100px;
+	color: #B22222;
+}
+
+#contactUs{
+	font-size: 30px;
+	color: black;
+}
+
+
+.burgerNameDiv{
+	align-items: center;
+	justify-content: column;
+}
+
+.addButton{
+	height: 30px;
+	width: 30px;
+	border-radius: 25px;
+	background-color: #FFD700;
+	border : none;
+	outline: none;
+	
+}
+
+
+
